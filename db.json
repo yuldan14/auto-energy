@@ -1,0 +1,14 @@
+{
+  "schedules": [
+    {
+      "id": "7fb6",
+      "device": "AC",
+      "time": "21:45"
+    },
+    {
+      "id": "7e1d",
+      "device": "Lampu",
+      "time": "21:45"
+    }
+  ]
+}
